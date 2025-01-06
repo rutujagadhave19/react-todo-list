@@ -7,3 +7,12 @@ Mark as Completed: Check off tasks when they are done.
 Update Todos: Edit tasks easily if needed.
 Delete Todos: Remove tasks you no longer need.
 Persistent Storage: All tasks are stored in the browser's local storage, so they stay saved across sessions.
+
+![image_alt](https://github.com/rutujagadhave19/react-todo-list/blob/main/Images/Img2.png)
+
+Add Tasks
+![image_alt](https://github.com/rutujagadhave19/react-todo-list/blob/main/Images/Img3.png)
+
+Mark as Completed
+![image_alt](https://github.com/rutujagadhave19/react-todo-list/blob/main/Images/Img1.png)
+
