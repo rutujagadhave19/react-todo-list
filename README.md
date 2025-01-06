@@ -3,6 +3,7 @@ This is a To-Do List application built using React and Tailwind CSS. The app all
 
 ✨ Features
 Add Todos: Create new tasks to stay organized.
+<br>
 Mark as Completed: Check off tasks when they are done.
 Update Todos: Edit tasks easily if needed.
 Delete Todos: Remove tasks you no longer need.
