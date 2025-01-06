@@ -6,8 +6,8 @@ Add Todos: Create new tasks to stay organized.<br>
 Mark as Completed: Check off tasks when they are done.<br>
 Update Todos: Edit tasks easily if needed.<br>
 Delete Todos: Remove tasks you no longer need.<br>
-Persistent Storage: All tasks are stored in the browser's local storage, so they stay saved across sessions.<br>
-
+Persistent Storage: All tasks are stored in the browser's local storage, so they stay saved across sessions.<be>
+<br>
 ![image_alt](https://github.com/rutujagadhave19/react-todo-list/blob/main/Images/Img2.png)
 
 Add Tasks
